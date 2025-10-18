@@ -31,8 +31,7 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 - Complex, But Not Complicated → https://dspguru.com/files/QuadSignals.pdf
 -	GRC Tutorial → https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC
 -	Multimon-NG → https://github.com/EliasOenal/multimon-ng
--	★ DSD with DMR AES Decode → https://github.com/LouisErigHerve/dsd
-
+-	★ DSD-FME (Florda Man Edition) → https://github.com/lwvmobile/dsd-fme/tree/audio_work
 
 #### =="Bring 'em on!"==
 ######	==Reference==
