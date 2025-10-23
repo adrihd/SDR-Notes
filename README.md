@@ -21,14 +21,14 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 ######	== Pre Configured SDR Linux Distros==
 -	★ DragonOS → https://sourceforge.net/projects/dragonos-focal/
 -	★ Pentoo Linux → https://www.pentoo.ch/
-- Skywave Linux → https://skywavelinux.com/
-- SigintOS → https://www.sigintos.com/
+-   Skywave Linux → https://skywavelinux.com/
+-   SigintOS → https://www.sigintos.com/
 
 
 #### =="Don't hurt me"==
 -	★ Install GRC → https://wiki.gnuradio.org/index.php/InstallingGR
 -	★ SDR with HackRF → https://greatscottgadgets.com/sdr/
-- Complex, But Not Complicated → https://dspguru.com/files/QuadSignals.pdf
+-   Complex, But Not Complicated → https://dspguru.com/files/QuadSignals.pdf
 -	GRC Tutorial → https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC
 -	Multimon-NG → https://github.com/EliasOenal/multimon-ng
 -	★ DSD-FME (Florda Man Edition) → https://github.com/lwvmobile/dsd-fme/tree/audio_work
@@ -48,8 +48,9 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 
 ######	==I’m Poor But I still Want to TX==
 -	VGA Transmitter → https://osmocom.org/projects/osmo-fl2k/wiki
--	★ Rpi-TX → https://github.com/F5OEO/rpitx
-- PiFmRds → https://github.com/ChristopheJacquet/PiFmRds
+-	★ RPi-TX → https://github.com/F5OEO/rpitx
+-	RPi FM Transmitter (DEPRECIATED) → https://github.com/rm-hull/pifm
+-	Arduino → https://randomnerdtutorials.com/rf-433mhz-transmitter-receiver-module-with-arduino/
 - ★ RadioLib (Arduino) → https://github.com/jgromes/RadioLib
 
 
@@ -86,13 +87,6 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 -	Reverse Engineering Protocols 1 → https://youtu.be/eVqIe3na_Zk
 -	Reverse Engineering Protocols 2 → https://youtu.be/vf38-8LbDuw
 -	Arduino → https://rayshobby.net/wordpress/reverse-engineer-wireless-temperature-humidity-rain-sensors-part-1/
-
-
-#### ==I’m Poor But I still Want to TX==
--	VGA Transmitter → https://osmocom.org/projects/osmo-fl2k/wiki
--	★ RPi-TX → https://github.com/F5OEO/rpitx
--	RPi FM Transmitter (DEPRECIATED) → https://github.com/rm-hull/pifm
--	Arduino → https://randomnerdtutorials.com/rf-433mhz-transmitter-receiver-module-with-arduino/
 
 
 #### ==Refrence==
@@ -157,8 +151,8 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 -	gr-dtv →  https://github.com/gnuradio/gnuradio/tree/master/gr-dtv 
 -	gr-ieee802.15-4 →  https://github.com/bastibl/gr-ieee802-15-4 
 -	gr-pocsag →  https://github.com/bafe/gr-pocsag 
-- gr-rds → https://github.com/bastibl/gr-rds
-
+-   gr-rds → https://github.com/bastibl/gr-rds
+-   gr-dvbt2 → https://github.com/drmpeg/gr-dvbt2
 
 ####	==Stand Alone Applications== 
 -	DSD (P25/DMR Decoder) → https://github.com/szechyjs/dsd
@@ -184,6 +178,9 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 - ★ Rayhunter → https://github.com/EFForg/rayhunter
 - LTEsniffer → https://github.com/SysSec-KAIST/LTESniffer
 
+
+####    == Wireless Tools==
+-   wscan_2 → LINUX Source → https://github.com/stefantalpalaru/w_scan2     ← *_NOTE: ATSC, DVB-C, DVB-S/S2 and DVB-T/T2_*
 
 ####	==WiFi && BLUETOOTH && ZIGBEE && LoRa==
 -	★ Meshtastic → https://meshtastic.org/
@@ -224,11 +221,12 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 -	Yard Stick One →  https://greatscottgadgets.com/yardstickone/ 
 -	Crazyradio PA →  https://www.bitcraze.io/crazyradio-pa/ 
 -	MD380 →  http://www.tyt888.com/?mod=product_show&id=78
--	MD380 Tools → https://github.com/travisgoodspeed/md380tools
+-	MD380 Tools → https://github.com/travisgoodspeed/md380tools ← Avoid these radios if possible, they are extremely limited
 -	★ Flipper Zero → https://flipperzero.one/
 -	Flipper Unleased Firmware → https://flipperunleashed.com/
 -	★ AT 878 UVII+ → https://anytone.org/wp/product/anytone-at-d878uvii-plus/
 -	 Smart BP100 DMR Analog Portable Repeater → https://www.alibaba.com/product-detail/Smart-BP100-PoC-DMR-Analog-Portable_1601218725583.html
+-   Quansheng UV-K5 → Most Referenced Custom Firmware → https://github.com/egzumer/uv-k5-firmware-custom
 
 
 ####		==Other Hardware==
